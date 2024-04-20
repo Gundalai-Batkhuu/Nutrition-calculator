@@ -6,6 +6,18 @@ class Recipe:
         self.name = name
         self.ingredients = ingredients
 
+    def calculate_calories(self):
+        """
+        Sums all the calories of the recipe's ingredients
+        :return:
+        """
+        sum = 0
+
+        for ingredient in self.ingredients:
+            sum = sum + ingredient.calorie
+
+        return sum
+
 
 class Ingredient:
     name: str
@@ -25,3 +37,6 @@ if __name__ == "__main__":
     for ingredient in jor.ingredients:
         print(ingredient.name)
         print(ingredient.calorie)
+
+    print(jor.calculate_calories())
+
