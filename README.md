@@ -1,3 +1,8 @@
+## Product vision
+This program calculates the nutrition of a meal. 
+## Step by step
+
+
 ## Inputs
 Recipe of a meal
 
