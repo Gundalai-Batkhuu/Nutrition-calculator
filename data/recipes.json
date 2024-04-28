@@ -2,7 +2,7 @@
   {
     "recipe_name": "Huushuur",
     "ingredients": [
-      {"name": "meat", "quantity": 500},
+      {"name": "beef", "quantity": 500},
       {"name": "flour", "quantity": 450},
       {"name": "onion", "quantity": 150},
       {"name": "oil", "quantity": 50},
@@ -13,10 +13,49 @@
   {
     "recipe_name": "Buuz",
     "ingredients": [
-      {"name": "meat", "quantity": 500},
+      {"name": "beef", "quantity": 500},
       {"name": "flour", "quantity": 500},
       {"name": "onion", "quantity": 150},
       {"name": "salt", "quantity": 10}
+    ]
+  },
+  {
+    "recipe_name": "Pizza",
+    "ingredients": [
+      {"name": "flour", "quantity": 300},
+      {"name": "tomato sauce", "quantity": 200},
+      {"name": "cheese", "quantity": 250},
+      {"name": "pepperoni", "quantity": 100},
+      {"name": "bell pepper", "quantity": 100},
+      {"name": "onion", "quantity": 50}
+    ]
+  },
+  {
+    "recipe_name": "Lasagna",
+    "ingredients": [
+      {"name": "lasagna noodles", "quantity": 400},
+      {"name": "beef", "quantity": 500},
+      {"name": "tomato sauce", "quantity": 600},
+      {"name": "mozzarella cheese", "quantity": 300},
+      {"name": "ricotta cheese", "quantity": 200},
+      {"name": "onion", "quantity": 150},
+      {"name": "garlic", "quantity": 60},
+      {"name": "salt", "quantity": 10},
+      {"name": "black pepper", "quantity": 5}
+    ]
+  },
+  {
+    "recipe_name": "Fried rice",
+    "ingredients": [
+      {"name": "rice", "quantity": 400},
+      {"name": "chicken", "quantity": 300},
+      {"name": "carrots", "quantity": 150},
+      {"name": "broccoli", "quantity": 100},
+      {"name": "eggs", "quantity": 3},
+      {"name": "soy sauce", "quantity": 50},
+      {"name": "garlic", "quantity": 20},
+      {"name": "salt", "quantity": 5},
+      {"name": "black pepper", "quantity": 3}
     ]
   }
 ]

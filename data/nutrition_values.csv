@@ -1,5 +1,5 @@
 ingredient,calorie
-meat,275
+beef,275
 onion,40
 flour,364
 salt,0
@@ -9,10 +9,14 @@ tomato sauce,78
 bell pepper,31
 cheese,402
 pepperoni,80
-carrot,41
-lasagna noodle,210
+carrots,41
+lasagna noodles,210
 ricotta cheese,171
 olive oil,119
 rice,130
 soy sauce,8
 broccoli,55
+mozzarella cheese,280
+black pepper,0
+eggs,155
+chicken,165

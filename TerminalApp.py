@@ -32,9 +32,10 @@ def invoke_option_1(recipes, nutrition_reference):
     answer = input("Enter 'y' to continue or any other key to exit: ")
 
     if answer.lower() == "y":
-        return "continue"
+        return invoke_option_1(recipes, nutrition_reference)
     else:
         return "exit"
+
 
 def main():
     calculator = NutritionCalculator('data/recipes.json', 'data/nutrition_values.csv')
