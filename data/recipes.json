@@ -1,0 +1,22 @@
+[
+  {
+    "recipe_name": "Huushuur",
+    "ingredients": [
+      {"name": "meat", "quantity": 500},
+      {"name": "flour", "quantity": 450},
+      {"name": "onion", "quantity": 150},
+      {"name": "oil", "quantity": 50},
+      {"name": "garlic", "quantity": 60},
+      {"name": "salt", "quantity": 10}
+    ]
+  },
+  {
+    "recipe_name": "Buuz",
+    "ingredients": [
+      {"name": "meat", "quantity": 500},
+      {"name": "flour", "quantity": 500},
+      {"name": "onion", "quantity": 150},
+      {"name": "salt", "quantity": 10}
+    ]
+  }
+]
